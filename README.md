@@ -1,5 +1,9 @@
 ## Hi there 👋
+Olá,
 
+Sou o Jeferson Nepomuceno.
+Atualmente estou estudando TI na Fatec Indaiatuba.
+Disponivel para engressar no mercado de trabalho.
 <!--
 **jeferson-1989/jeferson-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
